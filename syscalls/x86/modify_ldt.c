@@ -6,7 +6,6 @@
  */
 #include <stdlib.h>
 #include <sys/types.h>
-#include <sys/stat.h>
 #define __ASSEMBLY__ 1
 #include <asm/ldt.h>
 #include "sanitise.h"
